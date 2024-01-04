@@ -17,7 +17,8 @@ In total,``` 6272 images ```with the corresponding caption file are categorized 
 To improve the database, you can run the script with other fonts and request money :) Any help from you will make me happy, even giving a simple star.
 
 
-List of fonts:
+## List of fonts:
+
 ```
 - B Esfehan Bold
 - B Majid Shadow
